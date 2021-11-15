@@ -1,4 +1,4 @@
-"# Parallax-Scrolling-Website" 
+# Parallax-Scrolling-Website
 
 Đây là một trang web tạo chuyển động song song mình khá thích.
 
